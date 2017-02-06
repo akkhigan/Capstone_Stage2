@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "77814820175",
+    "firebase_url": "https://traveladvisor-806d3.firebaseio.com",
+    "project_id": "traveladvisor-806d3",
+    "storage_bucket": "traveladvisor-806d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77814820175:android:a8dd96660f76fa38",
+        "android_client_info": {
+          "package_name": "com.ganesh.travelapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77814820175-p0t2q9g65n5qde6pmc1jdc447qlqqvfc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyREsgCa4dFvqCZ2ABNEvjqUZt0T8a-JQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

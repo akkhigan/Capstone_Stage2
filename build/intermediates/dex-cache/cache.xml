@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/basantasethi/Desktop/MyDesk/Capstone-Project-master/Capstone_Stage2/app/build/intermediates/exploded-aar/com.android.support/design/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="8a5238e4bdcd6568b82db669d41817de670586b8">
+        <dex dex="/Users/basantasethi/Desktop/MyDesk/Capstone-Project-master/Capstone_Stage2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.0.0_d573dcd1e801ab4122cd3f132195f4fd4f448cfe/classes.dex" />
+    </item>
+    <item
+        jar="/Users/basantasethi/Desktop/MyDesk/Capstone-Project-master/Capstone_Stage2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="/Users/basantasethi/Desktop/MyDesk/Capstone-Project-master/Capstone_Stage2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-7.8.0_7ff26df2cd2d5fbd7becc3dfba12d036ea32afbb/classes.dex" />
+    </item>
+    <item
+        jar="/Users/basantasethi/Desktop/MyDesk/Capstone-Project-master/Capstone_Stage2/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="/Users/basantasethi/Desktop/MyDesk/Capstone-Project-master/Capstone_Stage2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-22.2.0_c53acdc9d8d6c99aa17ca2239ebc383ba8818fe2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/basantasethi/Desktop/MyDesk/Capstone-Project-master/Capstone_Stage2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="0124ce31248c0e8acfa2b28283c6d1a4d76e73d2">
+        <dex dex="/Users/basantasethi/Desktop/MyDesk/Capstone-Project-master/Capstone_Stage2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-7.8.0_dd2a0ec5329c5cbbecc5972eb40dcb2568cb8e05/classes.dex" />
+    </item>
+    <item
+        jar="/Users/basantasethi/Desktop/MyDesk/Capstone-Project-master/Capstone_Stage2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="130b32ed466fa0f63efd4c7d6250ccd2ed506790">
+        <dex dex="/Users/basantasethi/Desktop/MyDesk/Capstone-Project-master/Capstone_Stage2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-7.8.0_cab8079ff4ae6103fa8bdd2cb218d39980bcc862/classes.dex" />
+    </item>
+    <item
+        jar="/Users/basantasethi/Desktop/MyDesk/Capstone-Project-master/Capstone_Stage2/app/build/intermediates/exploded-aar/com.android.support/support-v13/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="5d4bccb885c8a89d066ecb6c4addb553a99a79a2">
+        <dex dex="/Users/basantasethi/Desktop/MyDesk/Capstone-Project-master/Capstone_Stage2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_2ebd1e1cd15ee9321c4fb0c777cd0f5b8fac6c42/classes.dex" />
+    </item>
+    <item
+        jar="/Users/basantasethi/Desktop/MyDesk/Capstone-Project-master/Capstone_Stage2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="d11330ea68c0d964d30d5caed1f27e6b1488b189">
+        <dex dex="/Users/basantasethi/Desktop/MyDesk/Capstone-Project-master/Capstone_Stage2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-7.8.0_15da05043789729ab138c577b4a820d1733e43e2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/basantasethi/Desktop/MyDesk/Capstone-Project-master/Capstone_Stage2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="/Users/basantasethi/Desktop/MyDesk/Capstone-Project-master/Capstone_Stage2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.0.0_ee1ed1fb2175dfdbb49084cf199ced24eb515a9f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/basantasethi/Desktop/MyDesk/Capstone-Project-master/Capstone_Stage2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="adebe28e0c0c05d34a3bfd76f3275bf4d8ff87b6">
+        <dex dex="/Users/basantasethi/Desktop/MyDesk/Capstone-Project-master/Capstone_Stage2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-7.8.0_aad40786dced817890d02152d98392d3887f54c7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/basantasethi/Desktop/MyDesk/Capstone-Project-master/Capstone_Stage2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="1ff30fa49c07a08c3035d7218a3efebf5680d522">
+        <dex dex="/Users/basantasethi/Desktop/MyDesk/Capstone-Project-master/Capstone_Stage2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-7.8.0_102b760bdbd80cc476bccd888ad635fece32953a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/basantasethi/Desktop/MyDesk/Capstone-Project-master/Capstone_Stage2/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="1ccbc26be2c465c622a48310e8092241b01abe80">
+        <dex dex="/Users/basantasethi/Desktop/MyDesk/Capstone-Project-master/Capstone_Stage2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.0.0_305bbd788215bbbffec22ffc989d9813f8984997/classes.dex" />
+    </item>
+    <item
+        jar="/Users/basantasethi/Desktop/MyDesk/Capstone-Project-master/Capstone_Stage2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="166e458ee3b5fb5fcff0f936df3f3a788e6c54f3">
+        <dex dex="/Users/basantasethi/Desktop/MyDesk/Capstone-Project-master/Capstone_Stage2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-7.8.0_68e8444925b90636b791438acd25a8e5738aac2e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/basantasethi/Desktop/MyDesk/Capstone-Project-master/Capstone_Stage2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="98137c4d12c50923f5809852b1ef4d1c4e162081">
+        <dex dex="/Users/basantasethi/Desktop/MyDesk/Capstone-Project-master/Capstone_Stage2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-7.8.0_0a19afb30e48bb5b894a7f29a05e9e47c2e9cda6/classes.dex" />
+    </item>
+    <item
+        jar="/Users/basantasethi/Desktop/MyDesk/Capstone-Project-master/Capstone_Stage2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="2e24e5f1b11170163028277de63f709e42525db4">
+        <dex dex="/Users/basantasethi/Desktop/MyDesk/Capstone-Project-master/Capstone_Stage2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-7.8.0_bc40d48db82d30298e720852f603207118f09681/classes.dex" />
+    </item>
+    <item
+        jar="/Users/basantasethi/Desktop/MyDesk/Capstone-Project-master/Capstone_Stage2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="c756d14e99d39471e99013a1e8fd2f3813ed42bf">
+        <dex dex="/Users/basantasethi/Desktop/MyDesk/Capstone-Project-master/Capstone_Stage2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-7.8.0_94f89ab2f64531c5d88b49197aac96880eae56cd/classes.dex" />
+    </item>
+    <item
+        jar="/Users/basantasethi/Desktop/MyDesk/Capstone-Project-master/Capstone_Stage2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="42a1ee578b62fd1bd28b3307a679dc9ba0791587">
+        <dex dex="/Users/basantasethi/Desktop/MyDesk/Capstone-Project-master/Capstone_Stage2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-7.8.0_fe15b769269c511d5e3b197c4e83523cfd0c38f2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/basantasethi/Desktop/MyDesk/Capstone-Project-master/Capstone_Stage2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="77a9dcb5f8b1dba36aacaa9c150eb0942dbea158">
+        <dex dex="/Users/basantasethi/Desktop/MyDesk/Capstone-Project-master/Capstone_Stage2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-7.8.0_2238aaca185e5e9baaaa48f22e3f33094cb66a28/classes.dex" />
+    </item>
+    <item
+        jar="/Users/basantasethi/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/basantasethi/Desktop/MyDesk/Capstone-Project-master/Capstone_Stage2/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_42079c40dda456e7278603cc80e7b56e44d37a73/classes.dex" />
+    </item>
+    <item
+        jar="/Users/basantasethi/Desktop/MyDesk/Capstone-Project-master/Capstone_Stage2/app/libs/volley.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="/Users/basantasethi/Desktop/MyDesk/Capstone-Project-master/Capstone_Stage2/app/build/intermediates/transforms/dex/debug/folders/1000/2/volley_cc50a547c70a05749326e13343f88775624a66ec/classes.dex" />
+    </item>
+    <item
+        jar="/Users/basantasethi/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/Users/basantasethi/Desktop/MyDesk/Capstone-Project-master/Capstone_Stage2/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-android-1.1.4_981a4da2d8647f57ee760e40bcc611e5babfae5d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/basantasethi/Desktop/MyDesk/Capstone-Project-master/Capstone_Stage2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="e23ea11124bb700eeddd4ab7aa848c615f493850">
+        <dex dex="/Users/basantasethi/Desktop/MyDesk/Capstone-Project-master/Capstone_Stage2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-7.8.0_303c155b8eb59cb4ebfcd0224da31ab120e3d1af/classes.dex" />
+    </item>
+    <item
+        jar="/Users/basantasethi/Desktop/MyDesk/Capstone-Project-master/Capstone_Stage2/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="0f254ec13d6671680482d2218f01ecf14dfa93e6">
+        <dex dex="/Users/basantasethi/Desktop/MyDesk/Capstone-Project-master/Capstone_Stage2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.android-facebook-android-sdk-4.0.0_7d5ed3c402e5aa7fdab3d9fbc3b47b1f952627d0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/basantasethi/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/Users/basantasethi/Desktop/MyDesk/Capstone-Project-master/Capstone_Stage2/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.0.0_d14356ecfbb80716a5a88785700f94ffd5880413/classes.dex" />
+    </item>
+    <item
+        jar="/Users/basantasethi/Desktop/MyDesk/Capstone-Project-master/Capstone_Stage2/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="40e7757d9b06db670062ddb3cf5b30c129b2fd8c">
+        <dex dex="/Users/basantasethi/Desktop/MyDesk/Capstone-Project-master/Capstone_Stage2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.0.0_bd3997d1117814ac97ab8e486e19601c2150d70c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/basantasethi/Desktop/MyDesk/Capstone-Project-master/Capstone_Stage2/app/build/intermediates/exploded-aar/com.android.support/support-v13/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="bb0ac3f3ee2d71854501cc28e52cc84a20209b41">
+        <dex dex="/Users/basantasethi/Desktop/MyDesk/Capstone-Project-master/Capstone_Stage2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v13-23.0.0_094e8072e77ebb83e68495d581838e16e5064500/classes.dex" />
+    </item>
+    <item
+        jar="/Users/basantasethi/Desktop/MyDesk/Capstone-Project-master/Capstone_Stage2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="cb6fab7a71fa9ec1f483d44c5fca65ab469d8aca">
+        <dex dex="/Users/basantasethi/Desktop/MyDesk/Capstone-Project-master/Capstone_Stage2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-7.8.0_1528f5c73e056181ff852776994fff980d6b76a1/classes.dex" />
+    </item>
+    <item
+        jar="/Users/basantasethi/Desktop/MyDesk/Capstone-Project-master/Capstone_Stage2/app/libs/ParseFacebookUtilsV4-1.10.1.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="81f498fa332ac7dff56ccbbef03e3d9f96ff67c8">
+        <dex dex="/Users/basantasethi/Desktop/MyDesk/Capstone-Project-master/Capstone_Stage2/app/build/intermediates/transforms/dex/debug/folders/1000/2/ParseFacebookUtilsV4-1.10.1_e88c2c05b36b89a1309694301fdf5855b2bfc778/classes.dex" />
+    </item>
+    <item
+        jar="/Users/basantasethi/Desktop/MyDesk/Capstone-Project-master/Capstone_Stage2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="fe571409787bf902f00f24a71b25d388296e29d1">
+        <dex dex="/Users/basantasethi/Desktop/MyDesk/Capstone-Project-master/Capstone_Stage2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4e11815dc3d6eac2cfa85f6a8edf4bc05689882b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/basantasethi/Desktop/MyDesk/Capstone-Project-master/Capstone_Stage2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="edea92852b40eee716e910af8dad9eeaa58fb0e1">
+        <dex dex="/Users/basantasethi/Desktop/MyDesk/Capstone-Project-master/Capstone_Stage2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appstate-7.8.0_eaec00e59c30b29db284c4302e4dfbd395ea7b55/classes.dex" />
+    </item>
+    <item
+        jar="/Users/basantasethi/Desktop/MyDesk/Capstone-Project-master/Capstone_Stage2/app/build/intermediates/exploded-aar/com.github.nirhart/parallaxscroll/1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="2574796fab3c6145ca6170821badd305f5e03669">
+        <dex dex="/Users/basantasethi/Desktop/MyDesk/Capstone-Project-master/Capstone_Stage2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.nirhart-parallaxscroll-1.0_76933f6735320346c5c2d5c8e128f6c70a17ef07/classes.dex" />
+    </item>
+    <item
+        jar="/Users/basantasethi/Desktop/MyDesk/Capstone-Project-master/Capstone_Stage2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="6e85edfc9b5346d216e50ccef1f8e825504144a3">
+        <dex dex="/Users/basantasethi/Desktop/MyDesk/Capstone-Project-master/Capstone_Stage2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-7.8.0_fe9fee2e3468e76c3364f8c5dcb338326220e410/classes.dex" />
+    </item>
+    <item
+        jar="/Users/basantasethi/Desktop/MyDesk/Capstone-Project-master/Capstone_Stage2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/Users/basantasethi/Desktop/MyDesk/Capstone-Project-master/Capstone_Stage2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.0.0_38f2fd49348eef7ecdf95a193c05663a67e09da2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/basantasethi/Desktop/MyDesk/Capstone-Project-master/Capstone_Stage2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="4a135d56554069e5d0ff80e3220e887e57146ee5">
+        <dex dex="/Users/basantasethi/Desktop/MyDesk/Capstone-Project-master/Capstone_Stage2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-7.8.0_724b29cde22e71ee9fef6a5c7c1f5cad591dccac/classes.dex" />
+    </item>
+    <item
+        jar="/Users/basantasethi/Desktop/MyDesk/Capstone-Project-master/Capstone_Stage2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="c2ac04c5b232f6f0658ee4f1c13be09cd76406e2">
+        <dex dex="/Users/basantasethi/Desktop/MyDesk/Capstone-Project-master/Capstone_Stage2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-7.8.0_26897b6810b493e52cd854cd39d8988ad1bca65e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/basantasethi/Desktop/MyDesk/Capstone-Project-master/Capstone_Stage2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="4be288748d99dc98b65d3f85c0a41d06cd1f3c2e">
+        <dex dex="/Users/basantasethi/Desktop/MyDesk/Capstone-Project-master/Capstone_Stage2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a20f520045a78b47b3611c9a1d7dbc08eb76edc5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/basantasethi/Desktop/MyDesk/Capstone-Project-master/Capstone_Stage2/app/libs/Parse-1.10.1.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="181b435832725bec96c11ff568bdfbccdacab944">
+        <dex dex="/Users/basantasethi/Desktop/MyDesk/Capstone-Project-master/Capstone_Stage2/app/build/intermediates/transforms/dex/debug/folders/1000/2/Parse-1.10.1_bcf7cad8f22e99da2ad976323cdf39698e2968d0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/basantasethi/Desktop/MyDesk/Capstone-Project-master/Capstone_Stage2/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="/Users/basantasethi/Desktop/MyDesk/Capstone-Project-master/Capstone_Stage2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.0_05baba6c66a68c429ac81cbce7b07005ce23f086/classes.dex" />
+    </item>
+    <item
+        jar="/Users/basantasethi/Desktop/MyDesk/Capstone-Project-master/Capstone_Stage2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/7.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="b99f0b78bbcb76b915bc6529a83b65d4d46990dd">
+        <dex dex="/Users/basantasethi/Desktop/MyDesk/Capstone-Project-master/Capstone_Stage2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-7.8.0_9527171c8996bd35342dab2395562c2fa59ada13/classes.dex" />
+    </item>
+    <item
+        jar="/Users/basantasethi/Desktop/MyDesk/Capstone-Project-master/Capstone_Stage2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="c5cafb324568d954780abb858c25db7ce675ab3c">
+        <dex dex="/Users/basantasethi/Desktop/MyDesk/Capstone-Project-master/Capstone_Stage2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-7.8.0_cfd087e1785176bf5df9824001caa077d3b80dd7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/basantasethi/Desktop/MyDesk/Capstone-Project-master/Capstone_Stage2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="2491ae1b2a848af1f4f0c795f3117c1bd6a1989f">
+        <dex dex="/Users/basantasethi/Desktop/MyDesk/Capstone-Project-master/Capstone_Stage2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-7.8.0_a8ff07da4e33c18ff019ef40ad6aec5d9b8de7e0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/basantasethi/Desktop/MyDesk/Capstone-Project-master/Capstone_Stage2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/Users/basantasethi/Desktop/MyDesk/Capstone-Project-master/Capstone_Stage2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_2ab72fab803222c88f9c897823e9945bcc58ef28/classes.dex" />
+    </item>
+
+</items>
